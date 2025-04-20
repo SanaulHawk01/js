@@ -1,0 +1,21 @@
+/*font family*/
+
+    @font-face{
+    src: url(../font/Playfair_Display/static/playfairdisplay-regular.ttf);
+    font-family: playfairdisplay-regular;
+}
+
+/*font family*/
+
+/*Common css Start*/
+
+:root{
+    --popr:"poppins-regular";
+    --bl: #000000;
+}
+
+body{
+    
+}
+
+/*Common css End*/
